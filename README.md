@@ -1,4 +1,4 @@
-# Hugging Face - ai-case-study
+# Hugging Face
 
 ## Founding and Pivot
 
