@@ -8,7 +8,9 @@
 
 ## Business Activities
 
-Hugging Face describes itself as "GitHub for machine learning" [^4]. Their platform, like GitHub, serves both independent developers as well as very large enterprise customers with repositories, open source libraries, NLP models, and compute power across several different hardware configurations. [^5] 
+> blockquote Hugging Face describes itself as "GitHub for machine learning" [^4]. 
+
+Their platform, like GitHub, serves both independent developers as well as very large enterprise customers with repositories, open source libraries, NLP models, and compute power across several different hardware configurations. [^5] 
 
 Embracing open source as they have, Hugging Face may have an unfair advantage over any future competitors. The history of open source software indicates that an incumbent market leader has only to stay the course and not alienate its most passionate users to succeed. 
 
