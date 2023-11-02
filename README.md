@@ -23,8 +23,8 @@ The AI revolution has barely begun and companies like Hugging Face are in a grea
 Investing heavily in the education portion of their website could pay massive future dividends in driving developer adoption resulting in rapidly growing recurring revenue as more companies are built on their compute platform.
 
 ## Resources
-[^1]wiki
-[^2]techcrunch
-[^3]axios
-[^4]hugging face
-[^5]forbes
+[^1]: Wikipedia - https://en.wikipedia.org/wiki/Hugging_Face
+[^2]: TechCrunch - Hugging Face wants to become your artificial BFF - https://techcrunch.com/2017/03/09/hugging-face-wants-to-become-your-artificial-bff/
+[^3]: Axios - AI startup Hugging Face now valued at $4.5 billion - https://www.axios.com/2023/08/24/hugging-face-ai-salesforce-billion
+[^4]: Hugging Face - https://huggingface.co/
+[^5]: Forbes - AI Startup Hugging Face Is Raising Fresh VC Funds At $4 Billion Valuation - https://www.forbes.com/sites/alexkonrad/2023/07/13/ai-startup-hugging-face-raising-funds-4-billion-valuation/?sh=9a9ce187f7a0
