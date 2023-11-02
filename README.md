@@ -8,7 +8,7 @@
 
 ## Business Activities
 
-> Hugging Face describes itself as "GitHub for machine learning" [^4]. 
+> Hugging Face describes itself as *"GitHub for machine learning"* [^4]. 
 
 Their platform, like GitHub, serves both independent developers as well as very large enterprise customers with repositories, open source libraries, NLP models, and compute power across several different hardware configurations. [^5] 
 
