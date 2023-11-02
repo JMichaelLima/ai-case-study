@@ -1,6 +1,6 @@
 # Hugging Face - ai-case-study
 
-## Overview and Origin
+## Founding and Pivot
 
 * **Hugging Face** was founded 2016 by Clement Delangue, Julien Chaumond, and Thomas Wolf. [^1]
 
